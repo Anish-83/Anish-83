@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nishaant Rastogi        
-- 👀 I am a Software Developer with 3 years of experie  nce  
+- 👀 I am a Software Developer with 3 years of experience  
 - 🌱 I’m currently learning Spring and AngularJS frameworks. 
 - 💞️ I’m looking for a Software Development role.
 - 📫 How to reach me ...
