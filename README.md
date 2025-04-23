@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Anish-83
-- 👀 I’m interested in Web Development  
-- 🌱 I’m currently learning Solidity and Ethereum
-- 💞️ I’m looking for an internship in solidity development
+- 👋 Hi, I’m Nishaant Rastogi        
+- 👀 I am a Software Developer with 3 years of experie  nce  
+- 🌱 I’m currently learning Spring and AngularJS frameworks. 
+- 💞️ I’m looking for a Software Development role.
 - 📫 How to reach me ...
 - +91-9198680820
-- monktail8@hotmail.com
+- rastoginishant52@gmail.com
 
 <!---
 Anish-83/Anish-83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
